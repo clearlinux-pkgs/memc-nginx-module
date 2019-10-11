@@ -1,6 +1,4 @@
 Configure miss: sys/filio.h 
-Configure miss: nobody group 
-Configure miss: nogroup group 
 Configure miss: /dev/poll 
 Configure miss: kqueue 
 Configure miss: crypt() 
@@ -14,6 +12,7 @@ Configure miss: SO_BINDANY
 Configure miss: IP_BINDANY 
 Configure miss: IP_RECVDSTADDR 
 Configure miss: IP_SENDSRCADDR 
+Configure miss: kqueue AIO support 
 Configure miss: setproctitle() 
 Configure miss: POSIX semaphores 
 Configure miss: struct dirent.d_namlen 
