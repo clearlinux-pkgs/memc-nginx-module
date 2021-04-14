@@ -4,7 +4,7 @@
 #
 Name     : memc-nginx-module
 Version  : 0.19
-Release  : 15
+Release  : 16
 URL      : https://github.com/openresty/memc-nginx-module/archive/v0.19.tar.gz
 Source0  : https://github.com/openresty/memc-nginx-module/archive/v0.19.tar.gz
 Summary  : No detailed summary available
