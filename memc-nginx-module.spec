@@ -7,7 +7,7 @@
 #
 Name     : memc-nginx-module
 Version  : 0.20
-Release  : 33
+Release  : 34
 URL      : https://github.com/openresty/memc-nginx-module/archive/v0.20/memc-nginx-module-0.20.tar.gz
 Source0  : https://github.com/openresty/memc-nginx-module/archive/v0.20/memc-nginx-module-0.20.tar.gz
 Summary  : No detailed summary available
